@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/menuIcon.png</file>
+        <file>images/historyIcon.png</file>
+        <file>images/homeIcon.png</file>
+        <file>images/mulProfileIcon.png</file>
+        <file>images/muscle.png</file>
+        <file>images/profileIcon.png</file>
+        <file>images/bladderLeft.png</file>
+        <file>images/bladderRight.png</file>
+        <file>images/Body.png</file>
+        <file>images/gallbladderLeft.png</file>
+        <file>images/gallbladderRight.png</file>
+        <file>images/heartLeft.png</file>
+        <file>images/heartRight.png</file>
+        <file>images/largeIntestLeft.png</file>
+        <file>images/largeIntestRight.png</file>
+        <file>images/liverLeft.png</file>
+        <file>images/liverRight.png</file>
+        <file>images/lungLeft.png</file>
+        <file>images/lungRight.png</file>
+        <file>images/menuIcon1.png</file>
+        <file>images/pancLeft.png</file>
+        <file>images/pancRight.png</file>
+        <file>images/smallIntestLeft.png</file>
+        <file>images/smallIntestRight.png</file>
+        <file>images/stomachLeft.png</file>
+        <file>images/stomachRight.png</file>
+        <file>images/vesselLeft.png</file>
+        <file>images/vesselRight.png</file>
+        <file>images/kidneyLeft.png</file>
+        <file>images/kidneyRight.png</file>
+        <file>images/immune.png</file>
+        <file>images/immuneLeft.png</file>
+        <file>images/immuneRight.png</file>
+        <file>images/pen.png</file>
+        <file>images/powerbutton.png</file>
+    </qresource>
+</RCC>
