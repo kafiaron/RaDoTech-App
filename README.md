@@ -1,5 +1,5 @@
 ##Team Members
-- Loc Binh
+- Loc B.
   - Documentation:
     - UML Class design 
     - Use Cases
@@ -7,20 +7,20 @@
     - Diagram, Indicator, Recommendation, HistoricalData classes  
   - UI
     - Diagram, Indicator, Recommendation pages
-- Talha Yusuf
+- Talha Y.
   - Documentation:
     - UML class design
     - Sequence diagrams
     - State Machine
   - Program Logic
     - Home page, Login page, Create user page, profile management, sliding side menu, UI design and navigation logic
-- Zaki Gardezi
+- Zaki G.
   - Documentation:
     - UML Class design
     - Traceability Matrix
   - Program Logic
     - Profile, User, ScanSession, HistoricalData classes  
-- Kafia Jaamac
+- Kafia J.
   - Documentation:
     - UML class design
     - Sequence diagrams
@@ -29,10 +29,5 @@
     - ScanSession, Battery, Skin on/off functionality, Shutdown, HistoricalData, User
   - UI
     - Login page, HomePage, Overall navigation, ScanSession page, History page
-  
-- Qusai Alkhawaldeh
-  - Documentation:
-    - UML class design
-    - Sequence diagrams
-    - State Machine
+
 
